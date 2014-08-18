@@ -1,0 +1,1 @@
+bot: bundle exec ruby gakugeeeekai.rb -d
